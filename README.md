@@ -8,25 +8,25 @@ Aby skorzytsac z szyfratora lub deszyfratora, wystarczy włączyć odpowiedni pl
 
 ### Technologie użyte do stworzenia projektu
 
-Python 3.7
-pyinstaller
-numpy
+Python 3.7  
+pyinstaller  
+numpy  
 
 ### Sprawozdanie
 
 ## Specyfikacja założeń:
 
-Klucz:
-Alfabet wejściowy: "abcdefghijklmnopqrstuwxyz"
-Alfabet wyjściowy: "abcdefghijklmnopqrstuwxyz"
-
-Tekst do zaszyfrowania:
-Alfabet wejściowy: "abcdefghijklmnopqrstuwxyz" oraz " "
-Alfabet wyjściowy: "abcdefghijklmnopqrstuwxyz"
-
-Tekst do odszyfrowania:
-Alfabet wejściowy: "abcdefghijklmnopqrstuwxyz"
-Alfabet wyjściowy: "abcdefghijklmnopqrstuwxyz"
+Klucz:  
+Alfabet wejściowy: "abcdefghijklmnopqrstuwxyz"  
+Alfabet wyjściowy: "abcdefghijklmnopqrstuwxyz"  
+  
+Tekst do zaszyfrowania:  
+Alfabet wejściowy: "abcdefghijklmnopqrstuwxyz" oraz " "  
+Alfabet wyjściowy: "abcdefghijklmnopqrstuwxyz"  
+  
+Tekst do odszyfrowania:  
+Alfabet wejściowy: "abcdefghijklmnopqrstuwxyz"  
+Alfabet wyjściowy: "abcdefghijklmnopqrstuwxyz"  
 
 ## Wprowadzanie danych:
 
@@ -41,17 +41,17 @@ Aby powtórz działanie programu wystarczy zmienić dane wejściowe i odpowiendi
 
 ## Rozmiar danych
 
-Długość klucza: dowolna
-Długość tejstu przeznaczonego do szyfrowania lub odszyfrowania: dowolna
-
-Szyfrowanie lub deszyfrowanie z nieodpowiednim kluczem nie powiedzie się.
+Długość klucza: dowolna  
+Długość tejstu przeznaczonego do szyfrowania lub odszyfrowania: dowolna  
+  
+Szyfrowanie lub deszyfrowanie z nieodpowiednim kluczem nie powiedzie się.  
 
 ## Format danych
 
-Dane tekstowe, zgodne z alfabetem wejściowym i wyjsciowym.
-Przykładowe dane:
-klucz: "ikonostas"
-tekst do szyfrowania: "wczoraj trojanie nie wrocili na noc do swego miasta"
+Dane tekstowe, zgodne z alfabetem wejściowym i wyjsciowym.  
+Przykładowe dane:  
+klucz: "ikonostas"  
+tekst do szyfrowania: "wczoraj trojanie nie wrocili na noc do swego miasta"  
 
 ## Ograniczenia
 
@@ -60,11 +60,11 @@ Program przyjmuje tylko dane tekstowe bez znaków specjalnych, cyfr, wielkich li
 
 ## Środowisko programistyczne
 
-PyCharm 2019.2.2 (Professional Edition)
-Build #PY-192.6603.34, built on September 10, 2019
-Runtime version: 11.0.3+12-b304.56 amd64
-VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
-Windows 10 10.0 
+PyCharm 2019.2.2 (Professional Edition)  
+Build #PY-192.6603.34, built on September 10, 2019  
+Runtime version: 11.0.3+12-b304.56 amd64  
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o  
+Windows 10 10.0  
 
 ## Środowisko wykonawcze
 
